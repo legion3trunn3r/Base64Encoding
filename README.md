@@ -5,7 +5,7 @@ A python script based on decoding and encoding base64 hash
 
 This code was written by Legion
 
-Base64Encode USAGE:
+#1 Base64Encode USAGE:
 ```
 python3 base64encode.py	-h	          # For help
 ```
